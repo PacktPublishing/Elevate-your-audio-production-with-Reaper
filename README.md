@@ -1,6 +1,6 @@
 # Elevate Your Audio Production with REAPER
 
-<a href="https://www.packtpub.com/en-us/product/elevate-your-audio-production-with-reaper-9781835885437"> <img src="	https://content.packt.com/_/image/original/B22116/cover_image.jpg" alt="Elevate Your Audio Production with REAPER" itemprop="url" height="256px" align="right">
+<a href="https://www.packtpub.com/en-us/product/elevate-your-audio-production-with-reaper-9781835885437"> <img src="https://content.packt.com/_/image/original/B22116/cover_image.jpg" alt="Elevate Your Audio Production with REAPER" itemprop="url" height="256px" align="right">
 
 This is the code repository for [Elevate Your Audio Production with REAPER](https://www.packtpub.com/en-us/product/elevate-your-audio-production-with-reaper-9781835885437), published by Packt.
 
